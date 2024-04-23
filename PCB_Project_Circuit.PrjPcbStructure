@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=1e_capteur.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1e_capteur.SchDoc|FileName=2e_capteur.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1e_capteur.SchDoc|FileName=3e_capteur.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=1e_capteur.SchDoc|FileName=4e_capteur.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=1e_capteur.SchDoc|FileName=Circuit.SchDoc|SheetNumber=1

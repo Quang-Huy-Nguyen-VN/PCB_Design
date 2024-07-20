@@ -1,0 +1,29 @@
+####################################################
+#   Color mapping for PWFusion TCA9548A library
+####################################################
+
+####################################################
+#   Classes (KEYWORD1)
+####################################################
+TCA9548A									KEYWORD1
+PWFusion_TCA9548A							KEYWORD1
+
+####################################################
+#   Functions (KEYWORD2)
+####################################################
+begin										KEYWORD2
+setChannel									KEYWORD2
+getChannel									KEYWORD2
+
+####################################################
+#   Constants (LITERAL1)
+####################################################
+CHAN_NONE									LITERAL1
+CHAN0										LITERAL1
+CHAN1										LITERAL1
+CHAN2										LITERAL1
+CHAN3										LITERAL1
+CHAN4										LITERAL1
+CHAN5										LITERAL1
+CHAN6										LITERAL1
+CHAN7										LITERAL1
